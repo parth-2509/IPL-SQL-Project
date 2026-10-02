@@ -1,0 +1,15 @@
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Database backups
+*.dump
+*.backup
+*.sql.gz
